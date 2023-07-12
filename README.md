@@ -38,6 +38,6 @@ Here are a few examples of how to use the Flipkart Review Scrapper:
 
 ## Contributors
 
-The Flipkart Review Scrapper was created by [Mr.Abhishek Sachin Dhondalkar](https://github.com/Abhishek-Jain-1925).
+The Flipkart Review Scrapper was created by [Mr.Abhishek Sachin Dhondalkar (Fergusson College, Pune.)](https://github.com/Abhishek-Jain-1925).
 
 🔍💻 Scrape and analyze Flipkart reviews with ease using the Flipkart Review Scrapper! 💾📊
